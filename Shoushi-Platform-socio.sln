@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoushi-Platform-App", "Shoushi-Platform-socio.csproj", "{CC5101C7-6442-4896-8C24-97419EC413BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5101C7-6442-4896-8C24-97419EC413BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5101C7-6442-4896-8C24-97419EC413BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5101C7-6442-4896-8C24-97419EC413BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5101C7-6442-4896-8C24-97419EC413BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
